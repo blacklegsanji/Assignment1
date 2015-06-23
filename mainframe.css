@@ -1,0 +1,47 @@
+#header
+{height:40%;width:100%;margin:0px;border:5px groove grey;}
+
+body{font-family:"Generica";}
+
+#menubar
+{
+background:black;color:white;border:5px groove grey;width:100%;height:auto;text-align:justify;
+}
+
+#parent
+{align:center;
+ width:100%;
+ margin:0px;}
+td{border:5px groove grey;}
+
+#welcome
+{ background-image:url("l in red.png");
+  background-size:100% 100%;
+  width:75%;
+  padding:4px;
+  vertical-align:top;
+  font-size:16;
+  font-weight:bold;
+  color:white;
+  list-style-type:square;}
+#menu
+{background-image:url("l menu.jpg");
+ background-size:100% 100%;
+ color:white;
+ vertical-align:top;
+ padding:4px;
+ font-size:16;}
+
+#menubar a{display:inline-block;
+           width:100px;
+           border:4px double white; 
+           color:white; text-align:justify;
+           text-align:center;
+           text-decoration:none;
+           margin:10px;
+           margin-left:120px;
+           
+           padding:4px;}
+#menu a{color:white;}
+
+
